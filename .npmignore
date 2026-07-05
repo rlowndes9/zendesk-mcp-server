@@ -1,0 +1,7 @@
+.worktrees/
+test/
+docs/
+.github/
+.env
+.env.example
+*.test.js

@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Worktrees
+.worktrees/
+
+# Internal working docs (not for public repo)
+docs/TODOS.md
+docs/todos.md
+TODO.md
+TODOS.md
+scratch/
+*.local.md
